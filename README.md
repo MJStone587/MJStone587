@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MJStone587
+- 👋 Hi, I’m Mark Johnston
 - 👀 I’m interested in .. Software Development and all things programming. I love video games, movies, books, food, and nature. 
 - 
 - 🌱 I’m currently learning ... more web development. Always learnin and adding new tools to the toolbox. 
