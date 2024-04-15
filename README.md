@@ -7,7 +7,6 @@
 - 
 - 📫 How to reach me ... 
 - my email is Mjstone587@yahoo.com.
-- my portfolio site https://markjportfolio.netlify.app/
 - my linked in is https://www.linkedin.com/in/mark-johnston-740853219/
 
 <!---
